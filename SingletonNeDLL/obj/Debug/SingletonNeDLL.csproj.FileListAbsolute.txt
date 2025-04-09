@@ -1,0 +1,13 @@
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\bin\Debug\SingletonNeDLL.exe.config
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\bin\Debug\SingletonNeDLL.exe
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\bin\Debug\SingletonNeDLL.pdb
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\bin\Debug\MySingletonLibrary.dll
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\bin\Debug\MySingletonLibrary.pdb
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\obj\Debug\SingletonNeDLL.csproj.AssemblyReference.cache
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\obj\Debug\SingletonNeDLL.Form1.resources
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\obj\Debug\SingletonNeDLL.Properties.Resources.resources
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\obj\Debug\SingletonNeDLL.csproj.GenerateResource.cache
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\obj\Debug\SingletonNeDLL.csproj.CoreCompileInputs.cache
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\obj\Debug\Singleto.8B30E9BF.Up2Date
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\obj\Debug\SingletonNeDLL.exe
+C:\Users\selen\Desktop\krush\SingletonNeDLL\SingletonNeDLL\obj\Debug\SingletonNeDLL.pdb
