@@ -1,0 +1,9 @@
+C:\Users\selen\Desktop\krush\MySingletonLibrary\MySingletonLibrary\bin\Debug\MySingletonLibrary.pdb
+C:\Users\selen\Desktop\krush\MySingletonLibrary\MySingletonLibrary\obj\Debug\MySingletonLibrary.csproj.AssemblyReference.cache
+C:\Users\selen\Desktop\krush\MySingletonLibrary\MySingletonLibrary\obj\Debug\MySingletonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\selen\Desktop\krush\MySingletonLibrary\MySingletonLibrary\obj\Debug\MySingletonLibrary.dll
+C:\Users\selen\Desktop\krush\MySingletonLibrary\MySingletonLibrary\obj\Debug\MySingletonLibrary.pdb
+C:\Users\selen\Desktop\krush\MySingletonLibrary\MySingletonLibrary\obj\Debug\MySingletonLibrary.MainForm.resources
+C:\Users\selen\Desktop\krush\MySingletonLibrary\MySingletonLibrary\obj\Debug\MySingletonLibrary.SecondForm.resources
+C:\Users\selen\Desktop\krush\MySingletonLibrary\MySingletonLibrary\obj\Debug\MySingletonLibrary.csproj.GenerateResource.cache
+C:\Users\selen\Desktop\krush\MySingletonLibrary\MySingletonLibrary\obj\Debug\MySingle.99DCEA9A.Up2Date
